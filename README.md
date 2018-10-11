@@ -1,6 +1,8 @@
 # 10-11-18
 assignment from 10-11-18
 
-activity 1 is in files: stocks.html, stockQuote.js, stock-aoo.js
+activity 1 is in stock-activity folder
 
-Assignment is in files: index.html, style.css, app.js, news.js
+Assignment is in news-assignment folder
+
+optional activity is in slideshow folder
